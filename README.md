@@ -7,6 +7,7 @@
 ## 안내문
 - [안내문 PDF](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/2022%EC%84%B8%EC%A2%85AI%EC%B1%8C%EB%A6%B0%EC%A7%80_%EB%8C%80%ED%9A%8C%EC%95%88%EB%82%B4.pdf)
 - [구체적인 일정](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/Schedule.md)
+- [1차 웹엑스 고사실 안내](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/WebexRoom.md)
 
 
 ## 사전 교육 

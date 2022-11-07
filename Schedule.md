@@ -6,8 +6,8 @@
 
 ## 1차 챌린지: 11월 9일(수) 상세 일정
 ### <1부 스케줄>
-- 18시 10분: 웹엑스 입실 완료 [[1차 웹엑스 주소안내](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/WebexRoom.md)]
-- 18시 10분 ~ 18시 30분: 시험 준비 (**교내 비대면 시험과 동일하게 준비 및 화면 녹화 준비**)
+- 18시 00분: 웹엑스 입실 완료 [[1차 웹엑스 주소안내](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/WebexRoom.md)]
+- 18시 00분 ~ 18시 30분: 시험 준비 (**교내 비대면 시험과 동일하게 준비 및 화면 녹화 준비**)
 - 18시 30분: 리더보드 오픈, 문제 공개 [[문제 링크 안내](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/Problems.md)]
 - 18시 30분 ~ 20시 25분: 캐글 챌린지 진행 (시험 중 퇴실 불가)
 - 20시 25분: 리더보드 마감

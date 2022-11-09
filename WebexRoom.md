@@ -1,11 +1,11 @@
 ## 웹엑스 고사실 정보
-|학번|고사실|접속링크|
-|------|---|---|
-|15011075~18011547|고사실 A|추후공지|
-|18011573~18011846|고사실 B|추후공지|
-|18011848~19011823|고사실 C|추후공지|
-|19011824~20011883|고사실 D|추후공지|
-|20011886~22110639|고사실 E|추후공지|
+|학번|고사실|접속링크|미팅번호|비밀번호|
+|---|-----|---------|-------|------|
+|15011075~18011547|고사실 A|[링크](https://sejong.webex.com/sejong-ko/j.php?MTID=ma1adfe6d51ec7875ecff5c8907dd9e62)|2512 661 7615|CuDqqYPh728|
+|18011573~18011846|고사실 B|[링크](https://sejong.webex.com/sejong-ko/j.php?MTID=m0160220a6a17bffe2a24bdf95cc25091)|2519 662 7296|pvNxsn8mP32|
+|18011848~19011823|고사실 C|[링크](https://sejong.webex.com/sejong-ko/j.php?MTID=m0770151c7dae20fe0a5c68a14839a3cd)|2517 248 8865|83r7sSkPPZa|
+|19011824~20011883|고사실 D|[링크](https://sejong.webex.com/sejong-ko/j.php?MTID=mb9236b99db5f1714f8af01237b5b4f7f)|2515 052 5036|9Wdg8F45WVw|
+|20011886~22110639|고사실 E|[링크](https://sejong.webex.com/sejong-ko/j.php?MTID=m154b813b2376406494abe5e6e8359786)|2517 105 0165|JvzjwJAM488|
 
 
 ## 전체 신청자 명단

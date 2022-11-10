@@ -9,7 +9,7 @@
 - **챌린지 당일 진행에 관련된 실시간 공지는 아래 오튼카톡방을 통해 이루어질 예정입니다. 오픈카톡방 미참여로 인한 불이익이 있을 수 있으니 모든 신청자는 오픈카톡방에 참여해주시기 바랍니다.**
 - [구체적인 일정](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/Schedule.md)
 - [1차 웹엑스 고사실 안내](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/WebexRoom.md)
-- [2차 발표평가 안내](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/Candidates.md)
+- [2차 발표평가 안내(상세내용 업데이트)](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/Candidates.md)
 - [문제링크 안내](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/Problems.md)
 
 

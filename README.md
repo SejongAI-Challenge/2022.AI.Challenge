@@ -11,6 +11,7 @@
 - [1차 웹엑스 고사실 안내](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/WebexRoom.md)
 - [2차 발표평가 안내(상세내용 업데이트)](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/Candidates.md)
 - [문제링크 안내](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/Problems.md)
+- [수상자 발표](https://github.com/SejongAI-Challenge/2022.AI.Challenge/blob/main/Winners.md)
 
 
 ## 사전 교육 
